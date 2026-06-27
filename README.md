@@ -11,13 +11,23 @@ Deploy a Windows Server VM in Azure, install IIS, and host a custom HTML website
 
 ## Step 2 - Virtual Network
 
-![VNET1](Screenshots/02-VNET%20(1).png)
-![VNET2](Screenshots/02-VNET%20(2).png)
-![VNET3](Screenshots/02-VNET%20(3).png)
-![VNET4](Screenshots/02-VNET%20(4).png)
+![VNET1](Screenshot/02-VNET%20(1).png)
+![VNET2](Screenshot/02-VNET%20(2).png)
+![VNET3](Screenshot/02-VNET%20(3).png)
+![VNET4](Screenshot/02-VNET%20(4).png)
 ## Step 3 - Network Security Group
 
-![NSG](Screenshots/03-NSG.png)
+![NSG](Screenshot/03-NSG%20(1).png)
+![NSG](Screenshot/03-NSG%20(2).png)
+![NSG](Screenshot/03-NSG%20(3).png)
+![NSG](Screenshot/03-NSG%20(4).png)
+![NSG](Screenshot/03-NSG%20(5).png)
+![NSG](Screenshot/03-NSG%20(6).png)
+![NSG](Screenshot/03-NSG%20(7).png)
+![NSG](Screenshot/03-NSG%20(8).png)
+![NSG](Screenshot/03-NSG%20(9).png)
+
+
 
 ## Step 4 - Virtual Machine
 
@@ -33,19 +43,34 @@ Deploy a Windows Server VM in Azure, install IIS, and host a custom HTML website
 
 ## Step 5 - Azure Bastion Connection
 
-![Bastion](Screenshots/05-Bastion.png)
+![Bastion1](Screenshot/05-Bastion%20(1).png)
+![Bastion2](Screenshot/05-Bastion%20(2).png)
+![Bastion3](Screenshot/05-Bastion%20(3).png)
 
 ## Step 6 - IIS Installation
 
-![IIS](Screenshots/06-IIS.png)
+![IIS1](Screenshot/06-IIS%20(1).png)
+![IIS2](Screenshot/06-IIS%20(2).png) 
+![IIS3](Screenshot/06-IIS%20(3).png) 
+![IIS4](Screenshot/06-IIS%20(4).png)
+![IIS5](Screenshot/06-IIS%20(5).png)
+![IIS6](Screenshot/06-IIS%20(6).png)
+
+
 
 ## Step 7 - Custom HTML Deployment
 
-![HTML](Screenshots/07-CustomHTML.png)
+![CustomHTML1](Screenshot/07-CustomHTML%20(1).png)
+![CustomHTML2](Screenshot/07-CustomHTML%20(2).png)
+![CustomHTML3](Screenshot/07-CustomHTML%20(3).png)
+![CustomHTML4](Screenshot/07-CustomHTML%20(4).png)
+![CustomHTML5](Screenshot/07-CustomHTML%20(5).png)
 
 ## Step 8 - Final Website
 
-![Website](Screenshots/08-FinalWebsite.png)
+![Website](Screenshot/08-FinalWebsite.png)
+
+
 
 ## Conclusion
 
