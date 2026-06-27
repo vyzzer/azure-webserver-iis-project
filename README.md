@@ -70,7 +70,10 @@ Deploy a Windows Server VM in Azure, install IIS, and host a custom HTML website
 
 ![Website](Screenshot/08-FinalWebsite.png)
 
-
+## step 9 -DNS
+![DNS1](Screenshot/09-DNS%20(1).png)
+![DNS2](Screenshot/09-DNS%20(2).png)
+![DNS3](Screenshot/09-DNS%20(3).png)
 
 ## Conclusion
 
