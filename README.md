@@ -6,7 +6,7 @@ Deploy a Windows Server VM in Azure, install IIS, and host a custom HTML website
 
 ## Step 1 - Resource Group
 
-![RG](Screenshot 2026-06-27 110018/01-RG.png)
+![RG](Screenshot/01-RG%20(1).png)
 
 ## Step 2 - Virtual Network
 
