@@ -18,7 +18,15 @@ Deploy a Windows Server VM in Azure, install IIS, and host a custom HTML website
 
 ## Step 4 - Virtual Machine
 
-![VM](Screenshots/04-VM.png)
+![VM1](Screenshot/04-VM%20(1).png)
+![VM2](Screenshot/04-VM%20(2).png)
+![VM3](Screenshot/04-VM%20(3).png)
+![VM4](Screenshot/04-VM%20(4).png)
+![VM5](Screenshot/04-VM%20(5).png)
+![VM6](Screenshot/04-VM%20(6).png)
+![VM7](Screenshot/04-VM%20(7).png)
+![VM8](Screenshot/04-VM%20(8).png)
+![VM9](Screenshot/04-VM%20(9).png)
 
 ## Step 5 - Azure Bastion Connection
 
