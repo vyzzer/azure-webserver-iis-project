@@ -15,7 +15,7 @@ Deploy a Windows Server VM in Azure, install IIS, and host a custom HTML website
 ![VNET2](Screenshot/02-VNET%20(2).png)
 ![VNET3](Screenshot/02-VNET%20(3).png)
 ![VNET4](Screenshot/02-VNET%20(4).png)
-## Step 3 - Network Security Group
+## Step 3 - Network Security Group and associate subnet 
 
 ![NSG](Screenshot/03-NSG%20(1).png)
 ![NSG](Screenshot/03-NSG%20(2).png)
